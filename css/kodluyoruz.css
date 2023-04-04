@@ -1,0 +1,72 @@
+/* Layout */
+body {
+    font-family: 'IM Fell DW Pica SC';
+    font-size: 22px;
+}
+
+a {
+    font-family: 'IM Fell DW Pica SC';
+    font-size: 22px;
+    text-align: center;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    color: rgb(236, 198, 142);
+    text-align: center;
+}
+img{
+    
+    display: -moz-groupbox;
+    margin-left: 20%;
+}
+
+p {
+    font-size: 35px;
+    color: blanchedalmond;
+    text-align: center;
+}
+li{
+    font-size: 35px;
+    color: blanchedalmond;
+}
+ol{
+    font-size: 35px;
+    color: blanchedalmond;
+}
+ul{
+    font-size: 35px;
+    color: blanchedalmond;
+}
+
+html {
+    background-color: rgb(60, 68, 60);
+}
+
+/* id */
+/* #first-article {
+   
+  
+} */
+
+/* classes */
+.text-red {
+    color: rgb(236, 198, 142);
+    text-decoration-line: none;
+}
+.text-boy {
+    font-size: 35px;
+    color: blanchedalmond;
+    text-decoration-line: none;
+}
+ 
+
+.fs-20 {
+   font-size: 20px;
+}
+.fs-30 {
+    font-size: 30px;
+}
+
+.fs-40{
+    font-size: 40px;
+}
