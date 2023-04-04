@@ -1,16 +1,14 @@
 <!DOCTYPE html>
 <html lang="en" lang="tr">
-<head>
-    
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home page</title>
-    <link rel="stylesheet" href="css/kodluyoruz.css">
-    <link href='https://fonts.googleapis.com/css?family=IM Fell DW Pica SC' rel='stylesheet'>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    
-</head>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>About me</title>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+        <link rel="stylesheet" href="css/kodluyoruz.css">
+        <link href='https://fonts.googleapis.com/css?family=IM Fell DW Pica SC' rel='stylesheet'>
+    </head>
 <body>
     <i class="material-icons" style="color:blanchedalmond;text-shadow:2px 2px 4px #000000;">cloud</i>
 <i class="material-icons" style="font-size:48px;color:blanchedalmond;text-shadow:2px 2px 4px #000000;">cloud</i>
@@ -64,3 +62,76 @@
     
 </body>
 </html>
+
+/* Layout */
+body {
+    font-family: 'IM Fell DW Pica SC';
+    font-size: 22px;
+}
+
+a {
+    font-family: 'IM Fell DW Pica SC';
+    font-size: 22px;
+    text-align: center;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    color: rgb(236, 198, 142);
+    text-align: center;
+}
+img{
+    
+    display: -moz-groupbox;
+    margin-left: 20%;
+}
+
+p {
+    font-size: 35px;
+    color: blanchedalmond;
+    text-align: center;
+}
+li{
+    font-size: 35px;
+    color: blanchedalmond;
+}
+ol{
+    font-size: 35px;
+    color: blanchedalmond;
+}
+ul{
+    font-size: 35px;
+    color: blanchedalmond;
+}
+
+html {
+    background-color: rgb(60, 68, 60);
+}
+
+/* id */
+/* #first-article {
+   
+  
+} */
+
+/* classes */
+.text-red {
+    color: rgb(236, 198, 142);
+    text-decoration-line: none;
+}
+.text-boy {
+    font-size: 35px;
+    color: blanchedalmond;
+    text-decoration-line: none;
+}
+ 
+
+.fs-20 {
+   font-size: 20px;
+}
+.fs-30 {
+    font-size: 30px;
+}
+
+.fs-40{
+    font-size: 40px;
+}
